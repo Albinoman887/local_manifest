@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remove-project name="CyanogenMod/android_hardware_msm7k" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <remove-project name="CyanogenMod/android_frameworks_native" />
   <project name="Albinoman887/android_frameworks_native" path="frameworks/native" revision="cm-10.1" />
   <remove-project name="CyanogenMod/android_frameworks_av" />
