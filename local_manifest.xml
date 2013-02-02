@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="CyanogenMod/android_frameworks_native" />
+  <project name="Albinoman887/android_frameworks_native" path="frameworks/native" revision="cm-10.1" />
+  <remove-project name="CyanogenMod/android_frameworks_av" />
+  <project name="Albinoman887/android_frameworks_av" path="frameworks/av" revision="cm-10.1" />
+  <remove-project name="CyanogenMod/android_frameworks_base" />
+  <project name="Albinoman887/android_frameworks_base" path="frameworks/base" revision="cm-10.1" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_gps" />
+  <project name="Albinoman887/android_hardware_qcom_gps" path="hardware/qcom/gps" revision="cm-10.1" />
+  <remove-project name="CyanogenMod/android_hardware_qcom_media" />
+  <project name="Albinoman887/android_hardware_qcom_media" path="hardware/qcom/media" revision="cm-10.1" />
+  <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
+  <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
+  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="jellybean" />
+  <project name="Albinoman887/android_vendor_htc" path="vendor/htc" revision="jellybean" />
+  <project name="Albinoman887/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="jellybean" />
+  <project name="Albinoman887/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="jellybean" />
+  <project name="Albinoman887/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" revision="jellybean" />
+  <project name="Albinoman887/android_hardware_qcom_gps-legacy" path="hardware/qcom/gps-legacy" revision="jellybean" />
+</manifest>
