@@ -14,10 +14,15 @@
   <project name="Albinoman887/android_hardware_qcom_media" path="hardware/qcom/media" revision="cm-10.1" />
   <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
   <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
-  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="jellybean" />
+  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="ChronicKernel-v1-stable" />
   <project name="Albinoman887/android_vendor_htc" path="vendor/htc" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_gps-legacy" path="hardware/qcom/gps-legacy" revision="jellybean" />
+  <project name="CyanogenMod/android_device_samsung_d2tmo" path="device/samsung/d2tmo" remote="github" />
+  <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" />
+  <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="github" />
+  <project name="CyanogenMod/android_device_samsung_d2-common" path="device/samsung/d2-common" remote="github" />
+  <project name="CyanogenMod/android_kernel_samsung_d2" path="kernel/samsung/d2" remote="github" />
 </manifest>
