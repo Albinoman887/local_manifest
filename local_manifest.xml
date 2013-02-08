@@ -14,7 +14,7 @@
   <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
   <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
   <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="ChronicKernel-v1-stable" />
-  <project name="Albinoman887/android_vendor_htc" path="vendor/htc" revision="jellybean" />
+  <project name="Albinoman887/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="jellybean" />
   <project name="Albinoman887/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" revision="jellybean" />
