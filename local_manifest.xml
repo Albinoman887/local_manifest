@@ -11,11 +11,10 @@
   <project name="Albinoman887/android_hardware_qcom_media" path="hardware/qcom/media" revision="cm-10.1" />
   <remove-project name="CyanogenMod/android_packages_apps_Camera" />
   <project name="Albinoman887/android_packages_apps_Camera" path="packages/apps/Camera" revision="cm-10.1" />
-  <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="jellybean" />
-  <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="jellybean" />
+  <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="cm-10.1" />
+  <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="cm-10.1" />
   <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="ChronicKernel-v1.2" />
   <project name="Albinoman887/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="jellybean" />
-  <project name="Albinoman887/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="jellybean" />
+  <project name="Albinoman887/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="cm-10.1" />
   <project name="Albinoman887/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="jellybean" />
-  <project name="Albinoman887/android_hardware_qcom_audio-legacy" path="hardware/qcom/audio-legacy" revision="jellybean" />
 </manifest>
