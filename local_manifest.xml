@@ -16,7 +16,7 @@
   <project name="Albinoman887/android_packages_apps_Camera" path="packages/apps/Camera" revision="cm-10.1" />
   <project name="Albinoman887/android_device_htc_msm8660-common" path="device/htc/msm8660-common" revision="cm-10.1" />
   <project name="Albinoman887/android_device_htc_pyramid" path="device/htc/pyramid" revision="cm-10.1" />
-  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/msm8660" revision="cm-10.1-linaro" />
+  <project name="Albinoman887/android_kernel_htc_pyramid" path="kernel/htc/pyramid" revision="cm-10.1-linaro" />
   <project name="Albinoman887/android_vendor_htc_pyramid" path="vendor/htc/pyramid" revision="master" />
   <project name="Team-Hydra/android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" revision="cm-10.1" />
   <project name="Team-Hydra/android_hardware_qcom_media-legacy" path="hardware/qcom/media-legacy" revision="cm-10.1" />
